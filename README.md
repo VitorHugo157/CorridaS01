@@ -1,5 +1,5 @@
 <h1>Teste</h1>
-**Integrantes do grupo**
+<strong>Integrantes do grupo</strong>
   <ul>
     <li>Fulano</li>
     <li>Ciclano</li>
