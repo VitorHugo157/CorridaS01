@@ -1,7 +1,5 @@
 <h1>Teste</h1>
 <strong>Integrantes do grupo</strong>
-  <ul>
-    <li>Fulano</li>
-    <li>Ciclano</li>
-  </ul>
+Fulano
+Ciclano
   
